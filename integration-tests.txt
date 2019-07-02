@@ -1,0 +1,3 @@
+au secours, mes tests d'intégrations sont instables
+
+Si vous avez déjà écris des tests d'intégration, vous avez probablement rencontré des difficultés à faire tourner vos dépendances. En effet, il faut : démarrer la dépendance s'assurer que la dépendance est dans un état correct avant de lancer le test arrêter la dépendance à la fin du test À tout ceci se rajoute le problème de reproductibilité du test (différents environments, système d'exploitation). Cela peut s’avérer assez complexe. Durant cette présentation , nous présenterons des solutions à ces problèmes et en ferons une démonstration.

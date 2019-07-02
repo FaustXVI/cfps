@@ -1,0 +1,9 @@
+Sortir de son code de confort
+
+Nous avons tous nos petites habitudes de code, nos petits réflexes. Et on aime travailler dans cette situation. Cependant, cela biaise notre jugement. Grâce à trois petits exercice d’une heure, je vous forcerai à explorer des solutions dont vous n’avez pas l’habitude.
+
+Ce workshop consiste à faire des katas sous contraintes. L’objectif des contraintes et d’enlever aux participant les solution habituelles et de les forcer à trouver de nouvelles manières de faire qui, si maîtrisés, deviendrait un corde supplémentaire à leur arc.
+
+Un exemple d’exercice du workshop : faire le kata fizzbuzz sans controle de flow explicite (if/for/switch/try/ternaire/…)
+
+

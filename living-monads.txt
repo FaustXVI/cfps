@@ -1,0 +1,7 @@
+Buvons un coup grâce aux monades !
+
+Un des conceptes qui fait le plus peur en programmation fonctionnelle, est celui de Monades.
+Surtout quand quelqu'un l'explique en disant "M'enfin, c'est juste un monoïde dans la categorie des endofunctors!" ou encore "Non mais si tu fais pas du Haskell, tu peux pas comprendre".
+Or les monades gagnent à être connu car cela peut simplifier grandement le code, y compris les codes écris dans des languages non fonctionnels.
+Durant cette présentation, les monades seront expliqués sans code, ni maths. Mieux, pour rendre les monades plus visuelles, elles seront mimées !
+A la fin de ce talk, vous aurez compris comment les monades fonctionnes et pourquoi cela est utile.

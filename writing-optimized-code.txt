@@ -1,0 +1,29 @@
+Écrire du code optimisé
+
+Avez-vous déjà dû optimiser du code ?
+Êtes vous certain d'avoir optimisé ce qu'il faut ?
+Avez-vous réussi ?
+
+Si vous avez répondu "non" à l'une de ces question, alors cet talk est pour vous.
+
+Durant cette présentation qui se veut agnostique au langage, vous découvrirez pourquoi, quand et comment optimiser votre code.
+Nous répondrons à des question comme :
+
+- "A quel point dois-je optimiser mon code ?"
+- "Comment optimiser sans provoquer de régressions ?"
+- "Performance et lisibilité sont-il compatible ?"
+
+
+Writing optimized code
+
+Did you ever had to optimize code ?
+Are you sure you really had to do it ?
+Did you succeed ?
+If you answered "no" to any of this questions, then this talk is for you.
+In this language agnostic presentation, you'll learn why, when and how you should optimize your code.
+We will answer questions like :
+- "How much should I optimize my code ?"
+- "How do I optimize without breaking thing ?"
+- "Is speed and readability compatible ?"
+
+Duration : 20 minutes

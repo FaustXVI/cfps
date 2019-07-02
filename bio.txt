@@ -1,0 +1,5 @@
+Co-organisateur de la communauté software craftsmanship de Paris et de la non-conférence SoCraTes France, le partage de savoir est au cœur de mon état d'esprit.
+Amoureux de la programmation fonctionnelle et du code élégant, le plaisir de programmer et d'expliquer cet art ont fait de moi un crafter passionné.
+
+Co-organiser of the Software Craftsmanship Community of Paris and the SoCraTes France Unconference, knowledge sharing is at the heart of my mindset.
+In love with functional programming and beautiful code, enjoying doing and explaining code made me a passionate crafter.
